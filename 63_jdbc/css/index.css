@@ -1,0 +1,20 @@
+body{
+	background-color:#020d6f;
+}
+table{
+	/*background-color:#e3f4fd;*/
+	padding: 20px 70px;
+	border:1px solid #777;
+	margin:0px auto;
+	color:white;
+	font-family:verdana;
+}
+#hd{
+	text-align:center;
+	font-family:verdana;
+	color:white;
+}
+.inp{
+	border-radius:5px;
+	
+}

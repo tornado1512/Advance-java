@@ -1,0 +1,22 @@
+body{
+	margin-left:1px ;
+}
+#main{
+margin:0px auto;
+}
+#header{
+	border:1px solid #cc66ff;
+	width:1000px;
+	height:20px;
+}
+#body{
+	border:1px solid#00cc66;
+	width:1000px;
+	height:400px;
+	ba
+}
+#footer{
+	border:1px solid #0033cc;
+	width:1000px;
+	height:20px;
+}

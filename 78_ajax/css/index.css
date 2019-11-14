@@ -1,0 +1,13 @@
+body{
+	font-family:verdana;
+}
+#records{
+	display:none;
+	width:200px;
+	border: 1px solid red;
+}
+.rec{
+	border: 1px solid #ccc;
+	padding: 3px 8px;
+	cursor: pointer;
+}

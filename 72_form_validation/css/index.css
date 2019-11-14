@@ -1,0 +1,8 @@
+.errmsg{
+	border:1px solid red;
+	background-color:#ffa6a6;
+	color:#ff0000;
+	padding:4px 12px;
+	border-radius:3px;
+	visibility:hidden;
+}
